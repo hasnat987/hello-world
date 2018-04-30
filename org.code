@@ -1,0 +1,9 @@
+//Code for c language
+
+#include<stdio.h>
+main()
+{
+    printf("Hello fucking world");
+    
+    return 0;
+}
